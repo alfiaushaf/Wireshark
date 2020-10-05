@@ -1,0 +1,20 @@
+Nama : Alfi Aushaf Fernanda?
+NIM : 09011382025106
+
+
+
+Throughput  :
+4181882/138.151 = 30270,37 bytes/s
+1 bytes = 8 bit
+30270,37 x 8 = 242 k bits/s
+
+Packet loss : 
+50302-50302/50302x50302 = 0 / tidak ada paket yang gagal terkirim
+
+Delay :
+total delay = 99,43 s
+rata2 delay = 0.0006274 s
+
+Jitter :
+total jitter = 0.206382 s
+rata2 jitter = 1.30226 s
